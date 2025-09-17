@@ -1,4 +1,8 @@
-<h1># Challenge-amigo</h1>
+<h1 align="center">
+:construction: Proyecto en construcción :construction:
+</h4></h1>
+
+
 Sortear entre amigos
 
 Descripción de su proyecto;
