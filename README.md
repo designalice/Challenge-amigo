@@ -2,6 +2,7 @@
 :construction: Proyecto en construcción :construction:
 </h4></h1>
 
+<h2> SORTEAR ENTRE AMIGOS ES EL OBJETIVO</h2>
 
 Sortear entre amigos
 
